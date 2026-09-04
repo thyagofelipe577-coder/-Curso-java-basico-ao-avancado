@@ -13,6 +13,10 @@ Aqui está o que desenvolvi em cada seção do curso:
 * **Seção 6:** Exercícios práticos de lógica, como a `CalculadoraIMC`.
 * **Seção 7:** Estruturas de decisão e classificação de produtos.
 * **Seção 8:** Introdução a **Métodos e Funções** (Criação de funções personalizadas e Built-in).
+* **Seção 9:** Manipulação de variáveis e cálculos práticos com `conversoTemperatura`.
+* **Seção 10:** Manipulação de Strings e lógica textual com `contadorDePalavras`.
+* **Seção 11:** **Estruturas de Repetição** (`while`, `for`, `do-while`), controle de fluxo e exercícios práticos (`exerciciosLacos`, `loopsB`).
+* **Seção 12:** Aplicações práticas e interativas: desenvolvimento de `Calculadora` e jogo de adivinhação com geração de números aleatórios (`JogoDoAdivinha` com a classe `Random`).).
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagem:** Java
