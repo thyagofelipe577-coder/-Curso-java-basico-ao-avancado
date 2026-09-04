@@ -38,7 +38,7 @@ public class TesteScanner {
 
         System.out.println("O numero é: " + n + " e seu nome: " + txt);
 
-        
+        System.out.println("-----Muito obrigado por executar!-----");
 
         scanner.close();
 

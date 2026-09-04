@@ -26,6 +26,13 @@ public class Tabuada {
          System.out.println(numero + "x 9 = " + (numero * 9 ));
          System.out.println(numero + "x 10 = " + (numero * 10 ));
 
+
+//         for (int i = 1; i <=10; i++){
+//              System.out.println("A tabuada do numero é: ");
+//              System.out.println(numero + " x " + i + " = " + (numero * i ));
+//
+//         }
+
          scanner.close();
 
 

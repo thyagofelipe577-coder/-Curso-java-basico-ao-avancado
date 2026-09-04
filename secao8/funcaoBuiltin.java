@@ -2,7 +2,7 @@ package secao8;
 
 public class funcaoBuiltin {
 
-    static void main() {
+    public static void main() {
         // 10 - funções built in exclusivos de Strings
 
         String frase = "java é muito bom.";
